@@ -1,0 +1,7 @@
+C:\Users\motonobu_tominaga\Documents\Visual Studio 2017\Projects\ProjectCheck\ProjectCheck\bin\Debug\ProjectCheck.exe.config
+C:\Users\motonobu_tominaga\Documents\Visual Studio 2017\Projects\ProjectCheck\ProjectCheck\bin\Debug\ProjectCheck.exe
+C:\Users\motonobu_tominaga\Documents\Visual Studio 2017\Projects\ProjectCheck\ProjectCheck\bin\Debug\ProjectCheck.pdb
+C:\Users\motonobu_tominaga\Documents\Visual Studio 2017\Projects\ProjectCheck\ProjectCheck\obj\Debug\ProjectCheck.csproj.CoreCompileInputs.cache
+C:\Users\motonobu_tominaga\Documents\Visual Studio 2017\Projects\ProjectCheck\ProjectCheck\obj\Debug\ProjectCheck.exe
+C:\Users\motonobu_tominaga\Documents\Visual Studio 2017\Projects\ProjectCheck\ProjectCheck\obj\Debug\ProjectCheck.pdb
+C:\Users\motonobu_tominaga\Documents\Visual Studio 2017\Projects\ProjectCheck\ProjectCheck\obj\Debug\ProjectCheck.csprojResolveAssemblyReference.cache
